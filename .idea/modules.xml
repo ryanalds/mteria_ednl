@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/arvores/arvores.iml" filepath="$PROJECT_DIR$/arvores/arvores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mteria_ednl.iml" filepath="$PROJECT_DIR$/.idea/mteria_ednl.iml" />
+    </modules>
+  </component>
+</project>
