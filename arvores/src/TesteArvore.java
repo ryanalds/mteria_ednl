@@ -8,5 +8,12 @@ public class TesteArvore {
         arvore.inserir(new Folha(19));
         arvore.inserir(new Folha(17));
         arvore.inserir(new Folha(77));
+
+        System.out.println(arvore.buscar(69));
+
+
+        arvore.remover(30);
+        arvore.remover(7);
+        arvore.inOrder();
     }
 }
